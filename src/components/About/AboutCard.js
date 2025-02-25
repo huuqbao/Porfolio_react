@@ -14,9 +14,7 @@ function AboutCard() {
             <br />
             I'm currently a fourth-year student at Saigon University, 
             majoring in Information Technology, specializing in Software Engineering.
-            <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
