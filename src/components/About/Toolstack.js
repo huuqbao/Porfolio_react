@@ -3,7 +3,7 @@ import { Col, Row } from "react-bootstrap";
 import {
   SiVisualstudiocode,
   SiPostman,
-  SiSlack,
+  SiFigma,
   SiVercel,
   SiMacos,
 } from "react-icons/si";
@@ -21,7 +21,7 @@ function Toolstack() {
         <SiPostman />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiSlack />
+        <SiFigma />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiVercel />
