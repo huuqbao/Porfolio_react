@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title="WatchStore"
               description="Developed a single-page e-commerce application for selling watches using Angular for the frontend and ASP.NET for the backend. Implemented RESTful APIs for product management, user authentication, and order processing, using JWT for secure login. Integrated VNPay payment gateway and used Entity Framework Core for database management with Microsoft SQL Server. Tested and documented APIs with Swagger for clear integration."
-              ghLink="https://github.com/baongne/WatchStore"
+              ghLink="https://github.com/huuqbao/ASP.NET_WatchStore"
             />
           </Col>
 
@@ -37,7 +37,7 @@ function Projects() {
               isBlog={false}
               title="Train Booking"
               description="Developed a web-based train ticket booking system using Thymeleaf for the frontend and Spring Boot for the backend. Implemented RESTful APIs for managing train schedules, user authentication, and ticket booking, with JWT for secure login and role-based access control. Used JPA with Hibernate for database interactions in MySQL, following the Code-First approach. Integrated VNPay payment gateway and tested APIs using Postman for functionality and performance."
-              ghLink="https://github.com/baongne/easy-buy"
+              ghLink="https://github.com/huuqbao/Train_Booking"
             />
           </Col>
 
@@ -47,7 +47,17 @@ function Projects() {
               isBlog={false}
               title="Tour Management"
               description="This is a tour management website written in Java programming language, without using any frameworks, purely written in Java, with full features such as add, delete, edit, search, statistics, etc."
-              ghLink="https://github.com/baongne/QuanLyTourDuLich"
+              ghLink="https://github.com/huuqbao/Tour_Management"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={editor}
+              isBlog={false}
+              title="WatchStore"
+              description="A web application developed using pure PHP (without any frameworks). It includes features such as user authentication, product management, order processing, and reporting."
+              ghLink="https://github.com/huuqbao/WatchStore"
             />
           </Col>
 
