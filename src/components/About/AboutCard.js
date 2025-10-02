@@ -9,15 +9,14 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Nguyen Huu Quoc Bao </span>
-            from <span className="purple"> Ho Chi Minh City, Vietnam.</span>
+            from <span className="purple">Ho Chi Minh City, Vietnam.</span>
             <br />
             <br />
-            I'm currently a fourth-year student at Saigon University, 
-            majoring in Information Technology, specializing in Software Engineering.
-
+            I have graduated with an <span className="purple">Engineer’s Degree in Information Technology</span> 
+            from Saigon University, specializing in <span className="purple">Software Engineering</span>.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from coding, some other activities that I love to do:
           </p>
           <ul>
             <li className="about-activity">
@@ -35,9 +34,9 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Strive to build things that make a difference!"
           </p>
-          <footer className="blockquote-footer">BaoNguyen</footer>
+          <footer className="blockquote-footer">Bao Nguyen</footer>
         </blockquote>
       </Card.Body>
     </Card>

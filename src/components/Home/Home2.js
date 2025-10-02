@@ -19,40 +19,38 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I am a fourth-year Software Engineering student at Saigon University. 
-            I aspire to be a full-stack developer. 
-            I focus on building scalable, high-performance web applications with clean architecture and best practices. 🤷‍♂️
+              I am a graduate Software Engineer from Saigon University, 
+              now pursuing my career as a <b className="purple">Business Analyst</b>.  
+              I am passionate about bridging the gap between business needs and technical solutions, 
+              ensuring that digital products are aligned with both user requirements and organizational goals. 
               <br />
-              <br />Tech Stack:
-              <br />🌐 Frontend:
+              <br />
+              <b>Core Skills:</b>
+              <br />📝 Requirement Analysis & Documentation: 
               <i>
-                <b className="purple">  Angular </b>
-              </i> 
-              <br />⚙️ Backend:
-              <i>
-                <b className="purple">  Spring Boot, ASP.NET Core, Laravel </b>
+                <b className="purple"> User Stories, Use Cases, BFD, DFD, Activity Diagrams </b>
               </i>
+              <br />🎨 Product Design Support: 
+              <i>
+                <b className="purple"> Wireframes, Mockups (Figma) </b>
+              </i>
+              <br />📊 Data & Tools: 
+              <i>
+                <b className="purple"> SQL, Excel/Google Sheets</b>
+              </i>
+              <br />
               <br />
               <br />What I Can Do:
-              <br />✅ Develop dynamic and responsive UIs with&nbsp;
-              <i>
-                <b className="purple">Angular </b> 
-              </i>
-              <br />✅ Build robust, secure, and scalable&nbsp;
-              <i>
-                <b className="purple">APIs</b> using{" "}
-                <b className="purple">
-                Spring Boot, ASP.NET Core, Laravel
-                </b>
-              </i>
-
-              <br />✅ Ensure seamless integration between frontend and backend systems&nbsp;
-              
-              <br />✅ Continuously learn and explore new technologies to improve performance&nbsp;
-              
-              <br />
-              <br />
-              
+              <br />✅ Gather and validate business requirements through{" "}
+              <b className="purple">interviews, surveys, and workshops</b>.
+              <br />✅ Translate business needs into{" "}
+              <b className="purple">clear specifications</b> for development teams.
+              <br />✅ Support in{" "}
+              <b className="purple">designing workflows, prototypes, and user journeys</b>.
+              <br />✅ Analyze data and metrics to provide{" "}
+              <b className="purple">insights for decision-making</b>.
+              <br />✅ Facilitate communication between{" "}
+              <b className="purple">stakeholders, developers, and QA teams</b>.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
