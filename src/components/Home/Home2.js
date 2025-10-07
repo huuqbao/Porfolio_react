@@ -19,37 +19,36 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am a graduate Software Engineer from Saigon University, 
-              now pursuing my career as a <b className="purple">Business Analyst</b>.  
-              I am passionate about bridging the gap between business needs and technical solutions, 
-              ensuring that digital products are aligned with both user requirements and organizational goals. 
+              I’m <b className="purple">Nguyen Huu Quoc Bao</b>, a Software Engineering graduate from 
+              <b className="purple"> Saigon University</b> who is now pursuing a career as a 
+              <b className="purple"> Business Analyst</b>.  
+              <br />
+              <br />
+              I’m passionate about understanding business problems, analyzing requirements, 
+              and helping teams turn ideas into clear, actionable technical solutions.  
+              My goal is to bridge the gap between business goals and technology, ensuring 
+              that every product delivers real value to users. 
               <br />
               <br />
               <b>Core Skills:</b>
-              <br />📝 Requirement Analysis & Documentation: 
-              <i>
-                <b className="purple"> User Stories, Use Cases, BFD, DFD, Activity Diagrams </b>
-              </i>
-              <br />🎨 Product Design Support: 
-              <i>
-                <b className="purple"> Wireframes, Mockups (Figma) </b>
-              </i>
-              <br />📊 Data & Tools: 
-              <i>
-                <b className="purple"> SQL, Excel/Google Sheets</b>
-              </i>
+              <br />📝 <b className="purple">Requirement Analysis & Documentation:</b> 
+              User Stories, Use Cases, BFD, DFD, Activity Diagrams
+              <br />🎨 <b className="purple">Product Design Support:</b> 
+              Wireframes, Mockups, Prototypes (Figma)
+              <br />📊 <b className="purple">Data & Tools:</b> 
+              SQL (basic), Excel / Google Sheets
               <br />
               <br />
-              <br />What I Can Do:
-              <br />✅ Gather and validate business requirements through{" "}
+              <b>What I Can Do:</b>
+              <br />✅ Gather and validate requirements through{" "}
               <b className="purple">interviews, surveys, and workshops</b>.
               <br />✅ Translate business needs into{" "}
-              <b className="purple">clear specifications</b> for development teams.
+              <b className="purple">clear, structured specifications</b> for developers.
               <br />✅ Support in{" "}
-              <b className="purple">designing workflows, prototypes, and user journeys</b>.
-              <br />✅ Analyze data and metrics to provide{" "}
-              <b className="purple">insights for decision-making</b>.
-              <br />✅ Facilitate communication between{" "}
+              <b className="purple">workflow design, prototypes, and user journeys</b>.
+              <br />✅ Analyze data to generate{" "}
+              <b className="purple">insights for business decision-making</b>.
+              <br />✅ Bridge communication between{" "}
               <b className="purple">stakeholders, developers, and QA teams</b>.
             </p>
           </Col>

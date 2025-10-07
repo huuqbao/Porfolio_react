@@ -54,7 +54,7 @@ function Projects() {
               imgPath={editor}
               title="Movie Ticket Booking App"
               description="Designed UI wireframes and user flows in Figma. Created functional requirement docs and use cases in Google Docs."
-              designLink="https://www.figma.com/design/R5CO3w5aGTZ1dW67Od13dH"
+              designLink="https://www.figma.com/design/AoLXXgqGDnQjHjkTMNon3b/BDTCinema?node-id=0-1&t=QCO9ahKrxlfHegs0-1"
               docLink="https://docs.google.com/document/d/1cgxXl3R9CGfxkfwPSJwftiDr_H13tHlRy8cFmt3X_PQ/edit?usp=sharing"
             />
           </Col>
